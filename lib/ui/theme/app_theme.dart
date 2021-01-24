@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 
-part 'text_themes.dart';
+part 'text_theme.dart';
 part 'light_theme.dart';
 part 'dark_theme.dart';
 
